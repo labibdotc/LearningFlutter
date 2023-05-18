@@ -21,6 +21,9 @@ Work: Worked with pubspec.yaml to load assets which helps developing application
 ## 4. Hot reload vs hot restart
 Work: Leanred more about stateless widgets and concept of hot reload which is an edge for flutter
 
+`Performing hot reload...
+Syncing files to device iPhone 14 Pro Max...
+Reloaded 1 of 665 libraries in 250ms (compile: 81 ms, reload: 105 ms, reassemble: 47 ms).`
 
 <img width="359" alt="Screenshot 2023-05-17 at 10 21 40 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/51f4084f-a991-4882-aa42-9f61a0c22532">
 
