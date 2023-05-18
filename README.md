@@ -18,3 +18,9 @@ Work: Worked with pubspec.yaml to load assets which helps developing application
 
 <img width="374" alt="Screenshot 2023-05-17 at 7 10 45 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/9de4a44d-744c-4606-8ac1-5278644c5d5a">
 
+## 4. Hot reload vs hot restart
+Work: Leanred more about stateless widgets and concept of hot reload which is an edge for flutter
+
+
+<img width="359" alt="Screenshot 2023-05-17 at 10 21 40 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/51f4084f-a991-4882-aa42-9f61a0c22532">
+
