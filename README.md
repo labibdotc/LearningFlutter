@@ -33,3 +33,5 @@ Work: Learned more about containers and how its size is decided given the differ
 ## 6. Multiple-children layout widgets
 Work: Explored columns and rows. SizedBox. CrossAxisAligment. MainAxisAlignment.
 
+<img width="339" alt="Screenshot 2023-05-17 at 11 26 27 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/cafb3f99-051a-4a0a-9640-f1871ad7e2c2">
+
