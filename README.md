@@ -27,3 +27,9 @@ Reloaded 1 of 665 libraries in 250ms (compile: 81 ms, reload: 105 ms, reassemble
 
 <img width="359" alt="Screenshot 2023-05-17 at 10 21 40 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/51f4084f-a991-4882-aa42-9f61a0c22532">
 
+## 5. Single-child layout widgets
+Work: Learned more about containers and how its size is decided given the different factors (child, margin, padding and safe area). One can also choose a specific width and height.
+
+## 6. Multiple-children layout widgets
+Work: Explored columns and rows. SizedBox. CrossAxisAligment. MainAxisAlignment.
+
