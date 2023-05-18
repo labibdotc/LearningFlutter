@@ -1,6 +1,6 @@
 # LearningFlutter
 In this Repository, I document my self-learning journey of flutter since I started on day 1.
-## Project 1
+## 1. hello world
 Work description: printing hello world inside a scaffold
 
 <img width="362" alt="Screenshot 2023-05-17 at 6 16 21 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/87056899-9922-4683-b2d9-597578a75aae">
@@ -39,4 +39,11 @@ Work: Explored columns and rows. SizedBox. CrossAxisAligment. MainAxisAlignment.
 Work: Google fonts, icons, colors, circleAvatar, and more!!
 
 <img width="350" alt="Screenshot 2023-05-18 at 1 38 47 AM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/f0f221e2-4437-49a8-a822-09a3b61eff96">
+
+## 8. Dice
+Work: Buttons, dart functions, stateful vs stateless widgets, dirty build.
+
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/dde7d707-e798-4a16-86e4-9e9f9db5fc79
 
