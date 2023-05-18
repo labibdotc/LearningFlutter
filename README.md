@@ -35,3 +35,8 @@ Work: Explored columns and rows. SizedBox. CrossAxisAligment. MainAxisAlignment.
 
 <img width="339" alt="Screenshot 2023-05-17 at 11 26 27 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/cafb3f99-051a-4a0a-9640-f1871ad7e2c2">
 
+## 7. Digital personal card
+Work: Google fonts, icons, colors, circleAvatar, and more!!
+
+<img width="350" alt="Screenshot 2023-05-18 at 1 38 47 AM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/f0f221e2-4437-49a8-a822-09a3b61eff96">
+
