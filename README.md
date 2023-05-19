@@ -63,6 +63,12 @@ https://github.com/labibdotc/LearningFlutter/assets/98433990/7302d374-ebb5-4c0c-
 
 
 
+## 11. Quizzler
+Work scope: interactive quiz cards, keeping state across modules, classes and objects, and more.
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/f6b0060e-88b0-447d-a65d-bcd6550656ee
+
 
 
 
