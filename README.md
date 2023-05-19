@@ -54,10 +54,14 @@ Work scope: More practice with Buttons. This also combines stateless and statefu
 https://github.com/labibdotc/LearningFlutter/assets/98433990/f44b582c-0590-4cca-acdc-ca823338963f
 
 
-## 10. A xylophone
+## 10. A xylophone (Sound on)
 Work scope: Sounds, buttons, states, exploring flutter and community packages, building xcode apps with cocoapods, and podfiles.
 
-https://github.com/labibdotc/LearningFlutter/assets/98433990/e20c2597-6bcc-406a-99ad-66dc4ac340ed
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/7302d374-ebb5-4c0c-8e54-b41815bfbad5
+
+
+
 
 
 
