@@ -69,6 +69,12 @@ Work scope: interactive quiz cards, keeping state across modules, classes and ob
 
 https://github.com/labibdotc/LearningFlutter/assets/98433990/f6b0060e-88b0-447d-a65d-bcd6550656ee
 
+## 12. Choose Your Own Adventure Game (Black Mirror's Bandersnatch)
+Practice with states, modules, classes, decision trees and interaction with user.
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/c556979d-d835-4173-b358-a62db51cc6bb
+
 
 
 
