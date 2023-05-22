@@ -78,3 +78,10 @@ https://github.com/labibdotc/LearningFlutter/assets/98433990/c556979d-d835-4173-
 
 
 
+
+## 13. Navigator Demo
+Practice with routes, navigation and multiple pages
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/1f4094ba-78fe-4ec3-8aa1-f20c78aa203b
+
+
