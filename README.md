@@ -70,7 +70,7 @@ Work scope: interactive quiz cards, keeping state across modules, classes and ob
 https://github.com/labibdotc/LearningFlutter/assets/98433990/f6b0060e-88b0-447d-a65d-bcd6550656ee
 
 ## 12. Choose Your Own Adventure Game (Black Mirror's Bandersnatch)
-Practice with states, modules, classes, decision trees and interaction with user.
+Work scope: Practice with states, modules, classes, decision trees and interaction with user.
 
 
 https://github.com/labibdotc/LearningFlutter/assets/98433990/c556979d-d835-4173-b358-a62db51cc6bb
@@ -80,8 +80,21 @@ https://github.com/labibdotc/LearningFlutter/assets/98433990/c556979d-d835-4173-
 
 
 ## 13. Navigator Demo
-Practice with routes, navigation and multiple pages
+Work scope: Practice with routes, navigation and multiple pages
 
 https://github.com/labibdotc/LearningFlutter/assets/98433990/1f4094ba-78fe-4ec3-8aa1-f20c78aa203b
+
+
+## 14. BMI calculator
+Work scope: Highest modularity yet explored, routes, navigators, building my own widgets, passing function as object parameters, null safety, gesture detector widgets.
+
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/5fa07339-09f0-4a31-a966-fcdf4ae2d90b
+
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/2bb82a91-198d-4841-b8b2-6629569949ec
+
 
 
