@@ -91,7 +91,6 @@ Work scope: Highest modularity yet explored, routes, navigators, building my own
 
 
 https://github.com/labibdotc/LearningFlutter/assets/98433990/5fa07339-09f0-4a31-a966-fcdf4ae2d90b
-<img width="358" alt="Screenshot 2023-05-24 at 9 14 12 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/53ac76fa-700a-4c4b-bfc6-ea40ff7a480f">
 
 
 ## 15. Climate App
