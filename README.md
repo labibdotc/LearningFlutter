@@ -93,4 +93,7 @@ Work scope: Highest modularity yet explored, routes, navigators, building my own
 https://github.com/labibdotc/LearningFlutter/assets/98433990/5fa07339-09f0-4a31-a966-fcdf4ae2d90b
 
 
+## 15. Climate App
+Work scope: "file inside folder inside folder" modulatity, navigation stack (pushing and poping and passing back variables), dynamic parameters, APIs, location APIs, user permissions to access location (background vs usage) both in ios and android.
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
