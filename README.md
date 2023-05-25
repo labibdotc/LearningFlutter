@@ -102,7 +102,7 @@ Work scope: "file inside folder inside folder" modulatity, navigation stack (pus
 https://github.com/labibdotc/LearningFlutter/assets/98433990/b0029ccd-2aaa-43a5-b6fc-9df83c3a2a55
 
 
-## 16. Exchange rate
+## 16. Bitcoin Exchange rate
 Work scope: secure use of APIs, real-time access to exchange rates. Cupertino IOS-styled widgets, running different app widgets depending on the system of the device that the app is running on, dart environments, arguments of flutter run, debugging of migradition to android embedding v2, and more.
 
 
