@@ -109,5 +109,13 @@ https://github.com/labibdotc/LearningFlutter/assets/98433990/c0977c95-1ac7-4daa-
 
 
 
+## 17. Community chat
+Work scope: firebase authentication, firestore cloud, sign in and sign up, retrieving old messages from the cloud, storing new messages in the cloud, loading screens on loading data.
+
+
+https://github.com/labibdotc/LearningFlutter/assets/98433990/6756e4cc-f60e-4bd3-8baa-2859a9b522bf
+
+
+<img width="1041" alt="Screenshot 2023-05-30 at 9 16 01 PM" src="https://github.com/labibdotc/LearningFlutter/assets/98433990/33f21343-a5d3-4981-bb09-42c1b03a1a71">
 
 
